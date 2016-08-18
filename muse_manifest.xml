@@ -1,0 +1,94 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="juans_midterm.html" resolutions="1x" timestamp="1470351900572">
+  <folder name="css">
+    <file name="site_global.css" crc="4044891952"/>
+    <file name="master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="383563267" ref="index"/>
+    <file name="nomq_index.css" crc="30827058" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="474750357" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="121412709" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>index"/>
+    <file name="form_process.php" crc="444429785" ref="phone>index"/>
+    <file name="form-u3223.php" crc="420470114" ref="phone>index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:tablet>index:index"/>
+    <file name="form-u3785.php" crc="397724002" ref="tablet>index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="tablet>index:index"/>
+    <file name="form-u390.php" crc="275132750" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img-breakfast-crop-u1537.jpg" crc="385468477" ref="phone>index"/>
+    <file name="onecoffeeplease2-u1547.png" crc="406502583" ref="phone>index"/>
+    <file name="preview_colourbox6155744.jpg" crc="39460260" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="tumblr_inline_n0hglwgv8x1sz70up.jpg" crc="3799336824" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="3_405_drugstore_cafe_counter_barbara_kraft.jpg" crc="4158352170" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="gallery-4.jpg" crc="4035920152" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="gallery-8464x310.jpg" crc="15524481" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="tumblr_inline_n0hglwgv8x1sz70up373x250.jpg" crc="218237437" seo="true" ref="phone>index"/>
+    <file name="tumblr_n0hd6fno6l1ts7v8jo1_1280-1373x249.jpg" crc="517210107" seo="true" ref="phone>index"/>
+    <file name="img-breakfast373x249.jpg" crc="297883154" seo="true" ref="phone>index"/>
+    <file name="u3225-17.png" crc="130033446" ref="phone>index"/>
+    <file name="u3225-17-r.png" crc="4178892623" ref="phone>index"/>
+    <file name="u3225-17-m.png" crc="184621212" ref="phone>index"/>
+    <file name="u3225-17-fs.png" crc="155767380" ref="phone>index"/>
+    <file name="img-breakfast-crop-u3366.jpg" crc="397610643" ref="tablet>index"/>
+    <file name="onecoffeeplease2-u3379.png" crc="3786209352" ref="tablet>index"/>
+    <file name="gallery-5-crop-u6439.jpg" crc="4165537526" seo="true" ref="tablet>index:index"/>
+    <file name="gallery-6953x637-crop-u3645.jpg" crc="261657778" ref="tablet>index"/>
+    <file name="img-breakfast-crop-u3665.jpg" crc="3761368256" ref="tablet>index"/>
+    <file name="tumblr_n0hd6fno6l1ts7v8jo1_1280-1-crop-u3705.jpg" crc="3770183491" ref="tablet>index"/>
+    <file name="gallery-5-crop-u6439-crop-u3631.jpg" crc="4038580800" ref="tablet>index"/>
+    <file name="gallery-6953x63768x45.jpg" crc="3935041199" seo="true" ref="tablet>index"/>
+    <file name="img-breakfast68x45.jpg" crc="3792527993" seo="true" ref="tablet>index"/>
+    <file name="tumblr_inline_n0hglwgv8x1sz70up68x45.jpg" crc="3861517811" seo="true" ref="tablet>index"/>
+    <file name="tumblr_n0hd6fno6l1ts7v8jo1_1280-168x45.jpg" crc="4178411726" seo="true" ref="tablet>index"/>
+    <file name="u3787-17.png" crc="130033446" ref="tablet>index"/>
+    <file name="u3787-17-r.png" crc="4178892623" ref="tablet>index"/>
+    <file name="u3787-17-m.png" crc="184621212" ref="tablet>index"/>
+    <file name="u3787-17-fs.png" crc="155767380" ref="tablet>index"/>
+    <file name="img-breakfast.jpg" crc="3913014698" seo="true" ref="index"/>
+    <file name="onecoffeeplease2-u362.png" crc="3786209352" ref="index"/>
+    <file name="gallery-6953x637.jpg" crc="534714787" seo="true" ref="index"/>
+    <file name="tumblr_n0hd6fno6l1ts7v8jo1_1280-1.jpg" crc="192460370" seo="true" ref="index"/>
+    <file name="gallery-5-crop-u6439-crop-u521.jpg" crc="4038580800" ref="index"/>
+    <file name="u401-17.png" crc="4151646131" ref="index"/>
+    <file name="u401-17-r.png" crc="4241215103" ref="index"/>
+    <file name="u401-17-m.png" crc="4168879594" ref="index"/>
+    <file name="u401-17-fs.png" crc="376318850" ref="index"/>
+    <file name="img-breakfast1496x898.jpg" crc="3915846647" seo="true" ref="index"/>
+    <file name="onecoffeeplease2-u3622.png" crc="3786209352" ref="index"/>
+    <file name="gallery-5-crop-u6439-crop-u5212.jpg" crc="4038580800" ref="index"/>
+    <file name="u401-172.png" crc="4151646131" ref="index"/>
+    <file name="u401-17-r2.png" crc="4241215103" ref="index"/>
+    <file name="u401-17-m2.png" crc="4168879594" ref="index"/>
+    <file name="u401-17-fs2.png" crc="376318850" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="269754803" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3903589340" seo="true" mt="1470351694501" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="205229520" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4002853196" seo="true" mt="1470350684277" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3982382840" seo="true" mt="1470351842906" redirect="true"/>
+</manifest>
